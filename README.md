@@ -8,4 +8,15 @@
 <br>
 --Hot Deals
 <br>
+<br>
+--Flower Garden
+<br>
+<br>
+--Instagram
+<br>
+<br>
+--Contact Us
+<br>
+<br>
+--Footer
 
